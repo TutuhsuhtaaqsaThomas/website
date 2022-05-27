@@ -1,0 +1,80 @@
+/* Website by Tutuhsuhtaaqsa Thomas */
+*{
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+}
+.banner {
+  background-image: url(images/banner.jpg);
+  border-style: dotted;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.title-big-blue {
+  font-size: 50px;
+  text-decoration: underline;
+  color: coral;
+}
+body {
+  background-color: coral;
+  background-image: url(images/background.jpg);
+  background-repeat: no repeat;
+  color: OrangeRed;
+  font-size: 16px;
+  margin: 50px;
+}
+h1 {
+    color: OrangeRed;
+    font-family: "Bebas Neue", Verdana, Arial;
+font-size: 40px;
+line-height: 0.5;
+text-align: center;
+}
+
+img {
+width: 300px;
+}
+
+
+  header, section, footer {
+    padding: 30px;
+    background-color: Linen;
+    margin: 30px;
+    border: 2px solid blue;
+    border-radius: 12px;
+
+  }
+
+
+  header h2{
+    text-align: center;
+  }
+  h2{font-size: 38px;}
+  p{
+    margin: 30px 0;
+  }
+  ul, ol {
+    margin: 15px 0;
+  }
+  h3{font-size: 28px;}
+h1, h2, h3 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+/* a{
+color: black;
+text-decoration: none;
+
+}
+a:hover {
+  text-decoration: overline;
+}
+header p {
+  color:
+}
