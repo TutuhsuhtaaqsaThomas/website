@@ -11,6 +11,7 @@
   height: 150px;
   background-size: cover;
   background-position: center;
+
 }
 .container{
   max-width: 1000px;
@@ -32,15 +33,14 @@ body {
 h1 {
     color: OrangeRed;
     font-family: "Bebas Neue", Verdana, Arial;
-font-size: 40px;
-line-height: 0.5;
-text-align: center;
+    font-size: 40px;
+    line-height: 0.5;
+    text-align: center;
 }
 
 img {
 width: 300px;
 }
-
 
   header, section, footer {
     padding: 30px;
@@ -50,7 +50,6 @@ width: 300px;
     border-radius: 12px;
 
   }
-
 
   header h2{
     text-align: center;
